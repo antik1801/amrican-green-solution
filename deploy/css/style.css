@@ -2264,6 +2264,11 @@ img.testimonial-thumb {
   font-size: 24px;
   margin: 0;
 }
+/* Choos us box */
+.choose-box:hover {
+  scale: 1.1;
+  transition: all 0.2s ease-in-out;
+}
 
 /* Newsletter */
 .ts-newsletter {
