@@ -3375,3 +3375,10 @@ a.btn.btn-primary.btn-fff {
 .list-headers{
   font-weight: 800;
 }
+.responsive-image{
+  width: 80vw;
+  height: 100vh;
+}
+.paragraph-title{
+  font-weight: 800;
+}
