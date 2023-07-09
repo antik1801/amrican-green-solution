@@ -3383,5 +3383,9 @@ a.btn.btn-primary.btn-fff {
   font-weight: 800;
 }
 .responsive-image-graph{
-  width: 80vh;
+  width: 80vw;
+}
+.responsive-image-turbain{
+  width: 80vw;
+  height: 50vh;
 }
